@@ -5,3 +5,4 @@ creating a new branch is quick and simple.
 use a different word.
 this is fegit adature.
 this is dev.
+this is new test.
