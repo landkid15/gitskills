@@ -8,7 +8,7 @@ this is dev.
 this is new test.
 let us start a new project, and havn't finished.
 We is testing.
-we would work at home next Monday.
+we would work at home next Friday.
 we would Tuesday,Wedesnday, thuresday.
 dfsfs 
 sfsdf 
